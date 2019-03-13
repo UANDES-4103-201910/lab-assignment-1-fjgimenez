@@ -39,6 +39,20 @@ design (both sthetics and structure), since it considers
 aspects that the first document doesnt such as font size and font 
 design among others.
 
-5.) 
+5.) Doing a quick Google search for xhr request: "XMLHttpRequest (XHR) 
+is an API available to web browser scripting languages such as JavaScript. 
+It is used to send HTTP or HTTPS requests to a web server and load the server 
+response data back into the script." From this, we can see that
+each file has a different loading time. This time is obviously 
+dependant on the file size and the complexity of each file.
+For example, gifs seam to be the files that take less time to open
+with 0 and 3 ms. This means that they must have a small size or be
+optimized for this page. They are probably vectors. Then come css
+and javascrip files with 326 and 317 ms respectively. These files are
+probably more complex but not as much as the html files and the favicon with 801 
+and 735 ms respectively. The favicon is probably a better quality vector
+with a biggers size and this makes it slower to load. Maybe it is not even a vector.
+
+6.) 
 
  
