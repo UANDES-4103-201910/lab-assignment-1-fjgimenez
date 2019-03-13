@@ -53,6 +53,8 @@ probably more complex but not as much as the html files and the favicon with 801
 and 735 ms respectively. The favicon is probably a better quality vector
 with a biggers size and this makes it slower to load. Maybe it is not even a vector.
 
-6.) 
+6.) The entity in charge of emmiting the security certificate
+for this website is COMODO RSA Domain Validation Secure Server CA. 
+and this certificate expires August 21st, 2019.
 
  
