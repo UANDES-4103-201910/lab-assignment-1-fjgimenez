@@ -25,6 +25,20 @@ seem to create links between certain elements and others within
 the same page or with other web pages. Finally, there is the span
 tag but I am not quite sure of what it does. 
 
-4.) 
+4.) In the sources tab, 6 documents are listed. The first three
+are file documents and the last 3 are gifs or icons used on the
+wabpage. The first document is called index and is filled
+with html tags such as head, html, link, title, tr, a, etc. This
+means that this document is the source of all the structural
+design of the webpage. Everything mentioned on part 3 comes from here.
+The next file is called hn.js, which seems to be coding. I suppose .js is 
+javascript. This is the document that probably creates the interactions
+within the webpage with other tabs and pages. The last document is called
+news.css, which is a css file. This file seems to be more specific
+design (both sthetics and structure), since it considers
+aspects that the first document doesnt such as font size and font 
+design among others.
+
+5.) 
 
  
